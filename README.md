@@ -9,9 +9,9 @@ Java
 ## Featured Projects 
 
 ### Word Game (Java)
-  A game based loosely on the New York Times Spelling Bee, in which the player must find as many words as possible from a given list of letters to achieve the highest possible score
+A game based loosely on the New York Times Spelling Bee, in which the player must find as many words as possible from a given list of letters to achieve the highest possible score
 ### Catacomb Crawler (Java)
-  A game where the player acts as a hero lost in a monster-filled catacomb. They must navigate and find the exit while scoring as many points as possible
+A game where the player acts as a hero lost in a monster-filled catacomb. They must navigate and find the exit while scoring as many points as possible
 
 
     
